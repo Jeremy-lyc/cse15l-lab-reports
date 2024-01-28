@@ -1,7 +1,6 @@
 <h1><italic>CSE 15L Lab 2 Report</italic></h1>
 
 <h3>Part 1</h3>
-
 - Chatserver code:
 ![Image](Pictures/CSE_15L_Lab_3_Chatserver.png)
 
