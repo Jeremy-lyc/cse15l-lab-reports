@@ -3,7 +3,7 @@
 <h3>Part 1</h3>
 
 - Chatserver code:
-<img src ="Pictures/CSE_15L_Lab_3_Chatserver.png" width = 50%>
+![Image](Pictures/CSE_15L_Lab_3_Chatserver.png)
 
 - Running code the first time:
 <img src ="Pictures/CSE_15L_Lab_3_Running_code_1.png" width = 50%>
