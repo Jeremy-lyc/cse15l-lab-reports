@@ -2,6 +2,7 @@
 
 <h3>Part 1</h3>
 - Chatserver code:
+
 ![Image](Pictures/CSE_15L_Lab_3_Chatserver.png)
 
 - Running code the first time:
