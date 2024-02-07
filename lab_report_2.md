@@ -3,10 +3,11 @@
 <h3>Part 1</h3>
 - Chatserver code:
 
-![Image](Pictures/CSE_15L_Lab_3_Chatserver.png)
+  ![Image](Pictures/CSE_15L_Lab_3_Chatserver.png)
 
 - Running code the first time:
-![Image](Pictures/CSE_15L_Lab_3_Running_code_1.png)
+
+  ![Image](Pictures/CSE_15L_Lab_3_Running_code_1.png)
 
 - When I run `add-message?s=Hello&user=jpolitz`, the method handelRequest of the Handle class is called. Then, it extracts the URL and stores it in the `chatMessages` ArrayList.
 - This method takes in a variable URI, called `url`. Then it will extract two values called messageParam and userParam and store them in the `chatMessages` ArrayList.
@@ -25,14 +26,17 @@
 
 <h3>Part 2</h3>
 
-- The absolute path to the private key for your SSH key for logging into `ieng6`
-![Image](Pictures/CSE_15L_Lab_3_SSH_local_key.png)
+- The absolute path to the private key for your SSH key for logging into `ieng6`, and the private key is `id_rsa`, not `id_rsa.pub`, which is a public key.
+
+  ![Image](Pictures/CSE_15L_Lab_3_SSH_local_key.png)
 
 - The absolute path to the public key for your SSH key for logging into `ieng6`
-![Image](Pictures/CSE_15L_Lab_3_SSH_server_key.png)
+
+  ![Image](Pictures/CSE_15L_Lab_3_SSH_server_key.png)
 
 - A terminal interaction where you log into your ieng6 account without being asked for a password
-![Image](Pictures/CSE_15L_Lab_3_log_in_SSH.png)
+
+  ![Image](Pictures/CSE_15L_Lab_3_log_in_SSH.png)
 
 ---
 
