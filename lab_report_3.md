@@ -1,4 +1,4 @@
-# CSE 15L Lab Report 3
+# CSE 15L Lab 3 Report
 
 <h3>Part 1 — Bugs</h3>
 
