@@ -85,3 +85,4 @@ public class TestListExamples {
 
 ---
 
+In the second half of the lab, I think the thing that I learned that is most useful is how to use Github. This is so powerful tool that I can save all my work that is on my computer to the cloud, and I can also collaborate with others to work on a big project. Another thing that is useful to me is `vim`, which could make me easily edit the file in the terminal rather than open the file in an editor if there's only a minor error that can be fixed pretty quickly.
