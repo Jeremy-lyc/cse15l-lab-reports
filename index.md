@@ -6,3 +6,4 @@
 - [Lab 2 Report](https://jeremy-lyc.github.io/cse15l-lab-reports/lab_report_2.html)
 - [Lab 3 Report](https://jeremy-lyc.github.io/cse15l-lab-reports/lab_report_3.html)
 - [Lab 4 Report](https://jeremy-lyc.github.io/cse15l-lab-reports/lab_report_4.html)
+- [Lab 5 Report](https://jeremy-lyc.github.io/cse15l-lab-reports/lab_report_5.html)
